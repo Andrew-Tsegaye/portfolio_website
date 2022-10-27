@@ -1,14 +1,7 @@
-## Personal Portfolio
-
-### [Live Site](https://jsmasterypro.com)
+## Eskinder Tsegaye's Personal Portfolio 
 
 ![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
 
-This is a code repository for the corresponding video tutorial. Your portfolio is your resume and your business card.
+## Fully functional portfolio website made with love by Andrew Tsegaye 
 
-In this video, we will create a full Personal Development Portfolio. We're going to use React and Next.js.
-
-Setup:
-- run ```npm i && npm start```
-
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+--Technologies used react.js and next.js
