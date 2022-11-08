@@ -4,7 +4,7 @@ This portfolio website is astonishing website to showcase your work and let othe
 
 ## Screenshots
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot-628.png](https://i.postimg.cc/3w3qHrHC/Screenshot-628.png)](https://postimg.cc/VJHgq8vd)
 
 
 ## Tech Stack
