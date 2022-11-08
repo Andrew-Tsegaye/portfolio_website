@@ -4,7 +4,7 @@ export const projects = [
     description:
       "A combination of domain adaptation and generalization techniques is proposed by leveraging domain-invariant image translations for image segmentation problems",
     image: "/images/pro_1.jpg",
-    tags: ["DaSeGAN", "DaSeGAN-S", "DaSeGAN-T"],
+    tags: ["DaSeGAN", "DaSeGAN-S", "DaSeGAN-T", "JavaScript"],
     source: "",
     visit:
       "https://drive.google.com/file/u/0/d/1sSZU6JpENmzYW7Ilwl0KQS2qWaH2pLJx/view?usp=sharing&pli=1",
