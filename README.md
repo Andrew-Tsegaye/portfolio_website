@@ -1,6 +1,6 @@
 ## Eskinder Tsegaye's Personal Portfolio 
 
-![Portfolio Website]([https://i.ibb.co/WgPMpts/image.png](https://ibb.co/7k7wGGg))
+![Portfolio Website](https://ibb.co/7k7wGGg)
 
 ## Fully functional portfolio website made with love by Andrew Tsegaye 
 
