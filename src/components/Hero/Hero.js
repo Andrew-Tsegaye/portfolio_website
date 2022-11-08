@@ -14,7 +14,7 @@ const Hero = (props) => (
       <LeftSection>
         <SectionTitle main center>
           Welcome To <br />
-          My Personal Portfolio
+          My Personal Portfolio website
         </SectionTitle>
         <SectionText>
           I am a Junior Data Scientist | AI Engineer with a strong exposure to
